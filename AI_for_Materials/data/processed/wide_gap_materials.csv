@@ -1,0 +1,5 @@
+formula,band_gap_eV,n_elements,contains_oxygen,structure_type
+TiO2,3.2,2,1,rutile
+ZnO,3.37,2,1,wurtzite
+Al2O3,8.8,2,1,corundum
+SnO2,3.6,2,1,rutile

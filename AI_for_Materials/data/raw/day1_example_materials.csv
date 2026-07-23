@@ -1,0 +1,11 @@
+formula,band_gap_eV,n_elements,contains_oxygen,structure_type
+Si,1.12,1,0,diamond
+Ge,0.67,1,0,diamond
+GaAs,1.42,2,0,zincblende
+TiO2,3.2,2,1,rutile
+ZnO,3.37,2,1,wurtzite
+Al2O3,8.8,2,1,corundum
+Fe,0.0,1,0,bcc
+Cu,0.0,1,0,fcc
+MoS2,1.8,2,0,layered
+SnO2,3.6,2,1,rutile

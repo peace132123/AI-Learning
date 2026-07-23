@@ -1,0 +1,9 @@
+material_id,formula,band_gap_eV,formation_energy_eV_atom,e_above_hull_eV_atom,crystal_system,material_family
+mp-demo-004,TiO2,3.2,-3.05,0.0,tetragonal,oxide
+mp-demo-005,ZnO,3.37,-1.75,0.01,hexagonal,oxide
+mp-demo-006,Al2O3,8.8,-3.4,0.0,trigonal,oxide
+mp-demo-010,SnO2,3.6,-2.1,0.0,tetragonal,oxide
+mp-demo-013,NiO,3.6,-1.25,0.04,cubic,oxide
+mp-demo-015,CeO2,3.2,-3.0,0.0,cubic,oxide
+mp-demo-016,BaTiO3,3.2,-2.85,0.02,tetragonal,oxide
+mp-demo-017,SrTiO3,3.25,-2.9,0.01,cubic,oxide
